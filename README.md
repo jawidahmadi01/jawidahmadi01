@@ -1,13 +1,15 @@
 # 💫 About Me:
-🎓 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐆𝐫𝐚𝐝𝐮𝐚𝐭 <br/>
-💻 𝐈𝐓 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 | 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠 | 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭<br/>
-🛠 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐚 6-𝐦𝐨𝐧𝐭𝐡 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐚𝐭 𝐭𝐡𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐚𝐭𝐞 𝐨𝐟 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 – 𝐒𝐚𝐦𝐚𝐧𝐠𝐚𝐧, 𝐠𝐚𝐢𝐧𝐢𝐧𝐠 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐬𝐞𝐭𝐮𝐩, 𝐭𝐫𝐨𝐮𝐛𝐥𝐞𝐬𝐡𝐨𝐨𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐮𝐬𝐞𝐫 𝐬𝐮𝐩𝐩𝐨𝐫𝐭.<br/>
-🌐 1+ 𝐲𝐞𝐚𝐫 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐰𝐞𝐛 𝐝𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐑𝐞𝐚𝐜𝐭 𝐚𝐧𝐝 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒.<br/>
-📚 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬, 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐦𝐨𝐝𝐞𝐫𝐧 𝐰𝐞𝐛 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬.<br/>
-🤝 𝐅𝐚𝐬𝐭 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 | 𝐀𝐝𝐚𝐩𝐭𝐚𝐛𝐥𝐞 | 𝐓𝐞𝐚𝐦 𝐏𝐥𝐚𝐲𝐞𝐫
+🎓 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞<br/>
+💻 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 / 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 (𝐑𝐞𝐚𝐜𝐭, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒)<br/>
+🛠 𝐈𝐓 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 (𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 - 𝐒𝐚𝐦𝐚𝐧𝐠𝐚𝐧 𝐃𝐂𝐓)<br/>
+🌐 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 | 𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐨𝐫 | 𝐆𝐢𝐭 | 𝐆𝐢𝐭𝐇𝐮𝐛
+🤖 𝐀𝐈 𝐓𝐨𝐨𝐥𝐬: 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 | 𝐂𝐥𝐚𝐮𝐝𝐞 𝐀𝐈 | 𝐆𝐞𝐦𝐢𝐧𝐢 (𝐏𝐫𝐨𝐦𝐩𝐭 𝐖𝐫𝐢𝐭𝐢𝐧𝐠, 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠)<br/>
+📡 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝐂𝐂𝐍𝐀 | 𝐂𝐂𝐍𝐏 | 𝐌𝐓𝐂𝐍𝐀 | 𝐌𝐂𝐒𝐀<br/>
+🎨 𝐏𝐡𝐨𝐭𝐨𝐬𝐡𝐨𝐩 | 𝐂𝐚𝐧𝐯𝐚<br/>
+📚 𝐅𝐚𝐬𝐭 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 | 𝐀𝐥𝐰𝐚𝐲𝐬 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠 | 𝐓𝐞𝐜𝐡 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jawidahmadiofficial) [![Telegram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://telegram.com/jawidahmadi01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jawidahmadi01) [!
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jawidahmadiofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jawidahmadi_official) [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jawidahmadi01) [!
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadiweb786@gmail.com) 
 
 # 💻 Tech Stack:
