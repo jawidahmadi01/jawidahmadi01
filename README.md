@@ -1,6 +1,10 @@
 # 💫 About Me:
-🛠 Front-End Developer with about 1 year of experience working with React, JavaScript, TypeScript, Tailwind, Bootstrap, HTML, CSS, Git & GitHub  <br>🎨 Basic UI/UX skills using Figma, Photoshop & Canva  <br>🌐 Familiar with WordPress & Elementor, building modern and user-friendly websites  <br>💼 Able to work as Help Desk, solving user technical issues  <br>🧠 Fast learner & flexible | Always exploring new technologies  <br>⚡ Passionate about creating clean, modern, and polished web experiences
-
+💻 Computer Science Graduate
+🌐 Web Developer (React, JavaScript, TypeScript)
+🎨 UI/UX Basics (Figma, Photoshop, Canva)
+🛠 IT Support & Help Desk Experience
+📚 Continuous Learner | Exploring New Technologies
+✨ Passionate about building modern and user-friendly web experiences
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jawidahmadiofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jawidahmadi01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jawid-ahmadi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jawidahmadiweb)
