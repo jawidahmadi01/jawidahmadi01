@@ -1,9 +1,9 @@
 # 💫 About Me:
-💻 Computer Science Graduate
-🌐 Web Developer (React, JavaScript, TypeScript)
-🎨 UI/UX Basics (Figma, Photoshop, Canva)
-🛠 IT Support & Help Desk Experience
-📚 Continuous Learner | Exploring New Technologies
+💻 Computer Science Graduate<br/>
+🌐 Web Developer (React, JavaScript, TypeScript)<br/>
+🎨 UI/UX Basics (Figma, Photoshop, Canva)<br/>
+🛠 IT Support & Help Desk Experience<br/>
+📚 Continuous Learner | Exploring New Technologies<br/>
 ✨ Passionate about building modern and user-friendly web experiences
 
 ## 🌐 Socials:
