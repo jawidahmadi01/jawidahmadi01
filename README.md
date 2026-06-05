@@ -1,8 +1,45 @@
 <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Graduate+%F0%9F%8E%93;Frontend+Developer+%F0%9F%92%BB;IT+Support+%26+Networking+%F0%9F%9B%A0;React+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+Web+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6e,100:00D9FF&height=200&section=header&text=Jawid%20Ahmadi&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20IT%20Support%20%7C%20Networking&descAlignY=58&descColor=ffffff" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+%7C+Tailwind+%7C+TypeScript;IT+Support+%26+Networking+%F0%9F%9B%A0;Always+Learning+%F0%9F%93%9A;Building+Modern+Web+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
 
 <br/>
+
+[
+
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
+](https://facebook.com/jawidahmadiofficial)
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+](https://instagram.com/jawidahmadi_official)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/jawidahmadi01)
+[
+
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+
+](https://tiktok.com/@jawidahmadiofficial)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:ahmadiweb786@gmail.com)
+
+[
+
+![](https://visitcount.itsvg.in/api?id=jawidahmadi01&label=Profile%20Views&icon=2&color=6&pretty=true)
+
+](https://visitcount.itsvg.in)
+
+</div>
 
 # 💫 About Me:
 🎓 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞<br/>
@@ -22,6 +59,27 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
+📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jawidahmadi01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawidahmadi01&theme=tokyonight&hide_border=true&layout=compact" />
+
+<br/>
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=jawidahmadi01&theme=tokyonight&hide_border=true)
+
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jawidahmadi01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
 
 ## 📈 Contribution Graph
 
@@ -30,17 +88,15 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jawidahmadi01&theme=tokyo-night&hide_border=true)
 
 </div>
-💡 What I'm Currently Working On
 
-- 🔭 Building modern **React + TypeScript** web applications
-- 🌱 Deepening knowledge in **backend development**
-- 👯 Open to **collaborating** on open-source projects
-- 💬 Ask me about **React, Tailwind CSS, IT Support, or Networking**
-
----
+## 📈 Contribution Graph
 
 <div align="center">
 
-### 🌟 "Code is not just syntax — it's a craft." 🌟
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jawidahmadi01&theme=tokyo-night&hide_border=true)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1a3a6e,100:0d1117&height=100&section=footer" />
 
 </div>
