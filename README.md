@@ -1,43 +1,10 @@
 <div align="center">
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6e,100:00D9FF&height=200&section=header&text=Jawid%20Ahmadi&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20IT%20Support%20%7C%20Networking&descAlignY=58&descColor=ffffff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+%7C+Tailwind+%7C+TypeScript;IT+Support+%26+Networking+%F0%9F%9B%A0;Always+Learning+%F0%9F%93%9A;Building+Modern+Web+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
 
 <br/>
-
-[
-
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-
-](https://facebook.com/jawidahmadiofficial)
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-](https://instagram.com/jawidahmadi_official)
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/jawidahmadi01)
-[
-
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-
-](https://tiktok.com/@jawidahmadiofficial)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:ahmadiweb786@gmail.com)
-
-[
-
-![](https://visitcount.itsvg.in/api?id=jawidahmadi01&label=Profile%20Views&icon=2&color=6&pretty=true)
-
-](https://visitcount.itsvg.in)
 
 </div>
 
